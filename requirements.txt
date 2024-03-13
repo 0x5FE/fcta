@@ -1,0 +1,6 @@
+google-cloud 
+azure-mgmt-security 
+pandas
+matplotlib
+scikit-learn
+boto3 (AWS)				
