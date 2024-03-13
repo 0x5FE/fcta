@@ -81,6 +81,5 @@ from sklearn.ensemble import IsolationForest
     def extract_indicators(event):
 
         indicators = []
-        # Implement logic to extract relevant indicators from event data (e.g., IP addresses, URLs, domains)
         # You can customize this based on the data available in your events
         if "source_ip" in
